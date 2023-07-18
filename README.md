@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Tommy](https://github.com/Commantary)</h1>
+## Hi 👋, I'm [Tommy](https://github.com/Commantary/)
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=commantary&label=Profile%20views&color=0e75b6&style=flat" alt="commantary" /> </p>
